@@ -1,4 +1,4 @@
-# Classification-on-Fashion-MNIST-with-TensorFlow-TensorFlow-Quantum-and-Cirq
+# Classification-on-Fashion-MNIST-with-TensorFlow
 
 * Inside the Repository, you'll find implementations of both a Quantum Neural Network and a Classical Convolutional Neural Network designed for performing classification tasks using the well-known Fashion MNIST dataset.
 * For the Quantum Implementation, TensorFlow-Quantum and Cirq are used.
